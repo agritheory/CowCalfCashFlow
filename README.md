@@ -2,7 +2,7 @@
 An example cash flow budget for a small cow/calf operation 
 
 Cow/ Calf Cash Flow Assumptions and Notes
-Tyler Matteson, GSG 2017 Winter Conference - tyler@mattesonfarm.com
+Tyler Matteson, GSG 2017 Winter Conference
  
 Assumed breed is Angus or similar, with good-on-grass type of genetics: birth weight of 70-90 lbs, mature female weight of 1100-1200 lbs
  
@@ -43,4 +43,3 @@ Facility repair is typically 3-4% of gross sales
 Insurance for this farm is not going to exceed $2400 year, it could well be lower.
  
 Misc Overhead is associated with things like office supplies (that are not used for marketing or retail) and other administrative expenses that aren’t worth calling out by themselves, typically 3-4% of sales.
-
