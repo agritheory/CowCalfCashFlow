@@ -1,4 +1,4 @@
-# CowCalfCashFlow
+# Cow/Calf Cash Flow
 An example cash flow budget for a small cow/calf operation 
 
 Cow/ Calf Cash Flow Assumptions and Notes
